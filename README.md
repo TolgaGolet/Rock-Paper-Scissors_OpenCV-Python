@@ -7,7 +7,7 @@ Template matching method is used as gesture detection algorithm. So it's always 
 
 # Algorithm
 
-**Important:** The algorithm selects a counter move without knowing that which move the opponent made when the space button is pressed because this is how we play in reality. The algorithm doesn't cheat. It uses the data like which moves the opponent made earlier and tries the guess which move the opponent is going to make next by using probability and statistics then finally it produces a counter move.
+**Important:** The algorithm selects a counter move **without knowing** that which move the opponent made when the space button is pressed because this is how we play in reality. The algorithm doesn't cheat. It uses the data like which moves the opponent made earlier and tries the guess which move the opponent is going to make next by using probability and statistics then finally it produces a counter move.
 
 # Screenshots
 
